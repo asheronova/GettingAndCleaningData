@@ -20,7 +20,7 @@ You should create one R script called run_analysis.R that does the following.
 4. Appropriately labels the data set with descriptive variable names.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-See the <span style="color:red">README.txt</span> file for the detailed information on the dataset. For the purposes of this project, the files in the Inertial Signals folders are not used. The files that will be used to load data are listed as follows:
+See the <span style="color:red"> README.txt </span> file for the detailed information on the dataset. For the purposes of this project, the files in the Inertial Signals folders are not used. The files that will be used to load data are listed as follows:
 ```
 test/subject_test.txt
 test/X_test.txt
